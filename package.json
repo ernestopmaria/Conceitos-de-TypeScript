@@ -1,0 +1,14 @@
+{
+  "name": "Conceitos-de-TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ernesto Maria <58423237+ernestopmaria@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
